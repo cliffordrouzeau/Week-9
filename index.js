@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-// TODO: Create a function to initialize app
 function init() {
   inquirer
   .prompt([
@@ -17,7 +16,7 @@ function init() {
     },
     {
         type: 'input',
-        message: 'what is your installation instructions',
+        message: 'what is your installation instructions?',
         name: 'installationinstructions',
       },
       {
@@ -116,5 +115,4 @@ fs.writeFile('README.md', doc, (err) =>
   })
 }
 
-// Function call to initialize app
 init();

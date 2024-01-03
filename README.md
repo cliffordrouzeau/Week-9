@@ -1,18 +1,39 @@
-# week-9
+# Project title  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-homework for week 9 challenge
+## Table of Contents
+> * [Description](#description)
+> * [Usage](#usage)
+> * [Installation](#installation)
+> * [Contributing](#contributing)
+> * [Tests](#tests)
+> * [Questions](#questions)
+> * [Review](#review)
 
-# Recap
+## Description
 
-```
-added inquirer and called it and fs
-wrote a prompt for the questions
-after then questions made a readme with the repsponde data
+    description
 
-```
+### Usage
+    usage information
+    
+## Installation 
+    Installation instructions
 
-[link to video](https://drive.google.com/file/d/1sj2kGgDql_SlHbJY0BGNWUC933z1ujyN/view?usp=drive_link)
+## Contributing 
+    contribution guidlines
+  
+## Tests 
+    test instructions
+    
+### Questions
+  
+ > **GITHUB**: [cliffordRouzeau](https://github.com/cliffordRouzeau)
 
+ > **EMAIL**: You can reach me at clifford.rouzeau@yahoo.com for additional questions.
 
+### Review
+    review description
 
-[link to repo] (https://github.com/cliffordrouzeau/week-6)
+    
+  
+    
